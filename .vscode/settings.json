@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/Users/sohiraakio/.pyenv/shims/python"
+    "python.pythonPath": "/Users/sohiraakio/.local/share/virtualenvs/10_aoj-ilecHuzf/bin/python",
+    "python.formatting.provider": "autopep8"
 }
